@@ -1,0 +1,8 @@
+C:\Users\KishanLimbad\source\repos\tutorials of c Sharp\tutorials of c Sharp\bin\Debug\tutorials of c Sharp.exe.config
+C:\Users\KishanLimbad\source\repos\tutorials of c Sharp\tutorials of c Sharp\bin\Debug\tutorials of c Sharp.exe
+C:\Users\KishanLimbad\source\repos\tutorials of c Sharp\tutorials of c Sharp\bin\Debug\tutorials of c Sharp.pdb
+C:\Users\KishanLimbad\source\repos\tutorials of c Sharp\tutorials of c Sharp\obj\Debug\tutorials of c Sharp.csproj.AssemblyReference.cache
+C:\Users\KishanLimbad\source\repos\tutorials of c Sharp\tutorials of c Sharp\obj\Debug\tutorials of c Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\KishanLimbad\source\repos\tutorials of c Sharp\tutorials of c Sharp\obj\Debug\tutorials of c Sharp.csproj.CoreCompileInputs.cache
+C:\Users\KishanLimbad\source\repos\tutorials of c Sharp\tutorials of c Sharp\obj\Debug\tutorials of c Sharp.exe
+C:\Users\KishanLimbad\source\repos\tutorials of c Sharp\tutorials of c Sharp\obj\Debug\tutorials of c Sharp.pdb

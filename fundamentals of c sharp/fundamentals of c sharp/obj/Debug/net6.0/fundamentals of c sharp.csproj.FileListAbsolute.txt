@@ -1,0 +1,15 @@
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\bin\Debug\net6.0\fundamentals of c sharp.exe
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\bin\Debug\net6.0\fundamentals of c sharp.deps.json
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\bin\Debug\net6.0\fundamentals of c sharp.runtimeconfig.json
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\bin\Debug\net6.0\fundamentals of c sharp.dll
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\bin\Debug\net6.0\fundamentals of c sharp.pdb
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\fundamentals of c sharp.csproj.AssemblyReference.cache
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\fundamentals of c sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\fundamentals of c sharp.AssemblyInfoInputs.cache
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\fundamentals of c sharp.AssemblyInfo.cs
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\fundamentals of c sharp.csproj.CoreCompileInputs.cache
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\fundamentals of c sharp.dll
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\refint\fundamentals of c sharp.dll
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\fundamentals of c sharp.pdb
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\fundamentals of c sharp.genruntimeconfig.cache
+C:\Users\KishanLimbad\source\repos\fundamentals of c sharp\fundamentals of c sharp\obj\Debug\net6.0\ref\fundamentals of c sharp.dll
