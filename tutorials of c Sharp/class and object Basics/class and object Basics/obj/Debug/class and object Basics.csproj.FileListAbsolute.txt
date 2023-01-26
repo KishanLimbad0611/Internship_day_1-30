@@ -1,0 +1,8 @@
+C:\Users\KishanLimbad\source\repos\class and object Basics\class and object Basics\bin\Debug\class and object Basics.exe.config
+C:\Users\KishanLimbad\source\repos\class and object Basics\class and object Basics\bin\Debug\class and object Basics.exe
+C:\Users\KishanLimbad\source\repos\class and object Basics\class and object Basics\bin\Debug\class and object Basics.pdb
+C:\Users\KishanLimbad\source\repos\class and object Basics\class and object Basics\obj\Debug\class and object Basics.csproj.AssemblyReference.cache
+C:\Users\KishanLimbad\source\repos\class and object Basics\class and object Basics\obj\Debug\class and object Basics.csproj.SuggestedBindingRedirects.cache
+C:\Users\KishanLimbad\source\repos\class and object Basics\class and object Basics\obj\Debug\class and object Basics.csproj.CoreCompileInputs.cache
+C:\Users\KishanLimbad\source\repos\class and object Basics\class and object Basics\obj\Debug\class and object Basics.exe
+C:\Users\KishanLimbad\source\repos\class and object Basics\class and object Basics\obj\Debug\class and object Basics.pdb
