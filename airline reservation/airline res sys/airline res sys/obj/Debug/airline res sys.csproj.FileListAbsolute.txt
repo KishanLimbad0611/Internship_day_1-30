@@ -1,0 +1,8 @@
+C:\Users\KishanLimbad\source\repos\airline res sys\airline res sys\obj\Debug\airline res sys.csproj.AssemblyReference.cache
+C:\Users\KishanLimbad\source\repos\airline res sys\airline res sys\obj\Debug\airline res sys.csproj.SuggestedBindingRedirects.cache
+C:\Users\KishanLimbad\source\repos\airline res sys\airline res sys\obj\Debug\airline res sys.csproj.CoreCompileInputs.cache
+C:\Users\KishanLimbad\source\repos\airline res sys\airline res sys\bin\Debug\airline res sys.exe.config
+C:\Users\KishanLimbad\source\repos\airline res sys\airline res sys\bin\Debug\airline res sys.exe
+C:\Users\KishanLimbad\source\repos\airline res sys\airline res sys\bin\Debug\airline res sys.pdb
+C:\Users\KishanLimbad\source\repos\airline res sys\airline res sys\obj\Debug\airline res sys.exe
+C:\Users\KishanLimbad\source\repos\airline res sys\airline res sys\obj\Debug\airline res sys.pdb

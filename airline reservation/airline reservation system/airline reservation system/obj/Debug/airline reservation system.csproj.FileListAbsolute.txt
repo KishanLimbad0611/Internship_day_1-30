@@ -1,0 +1,8 @@
+C:\Users\KishanLimbad\source\repos\airline reservation system\airline reservation system\bin\Debug\airline reservation system.exe.config
+C:\Users\KishanLimbad\source\repos\airline reservation system\airline reservation system\bin\Debug\airline reservation system.exe
+C:\Users\KishanLimbad\source\repos\airline reservation system\airline reservation system\bin\Debug\airline reservation system.pdb
+C:\Users\KishanLimbad\source\repos\airline reservation system\airline reservation system\obj\Debug\airline reservation system.csproj.AssemblyReference.cache
+C:\Users\KishanLimbad\source\repos\airline reservation system\airline reservation system\obj\Debug\airline reservation system.csproj.SuggestedBindingRedirects.cache
+C:\Users\KishanLimbad\source\repos\airline reservation system\airline reservation system\obj\Debug\airline reservation system.csproj.CoreCompileInputs.cache
+C:\Users\KishanLimbad\source\repos\airline reservation system\airline reservation system\obj\Debug\airline reservation system.exe
+C:\Users\KishanLimbad\source\repos\airline reservation system\airline reservation system\obj\Debug\airline reservation system.pdb
