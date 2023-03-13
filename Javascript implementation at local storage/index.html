@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet"> 
+
+  </head>
+  <body>
+    <h1>Registration Form</h1>
+    <form id="registration-form">
+      <div>
+        <label for="name" >Name:</label>
+        <input type="text" id="name" name="name" required>
+        <div id="name-error" class="error-message"></div>
+      </div>
+      <div>
+        <label for="email">Email:</label> 
+        <input type="email" id="email" name="email" required>
+        <div id="email-error" class="error-message"></div>
+      </div>
+      <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <div id="password-error" class="error-message"></div>
+      </div>
+      <div>
+        <label for="confirm-password">Confirm Password:</label>
+        <input type="password" id="confirm-password" name="confirm-password" required>
+        <div id="confirm-password-error" class="error-message"></div>
+      </div>                  
+      <div>
+        <input type="submit" value="Register">
+      </div>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>

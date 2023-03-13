@@ -1,0 +1,113 @@
+body {
+  font-family: 'Lilita One', cursive;
+  background:
+	radial-gradient(
+		transparent 0,
+		transparent 2em,
+		lightblue 2em,
+		lightblue 2.5em,
+		transparent 2.5em,
+		transparent 100%
+	),
+	radial-gradient(
+		transparent 0,
+		transparent 2em,
+		aquamarine 2em,
+		aquamarine 2.5em,
+		transparent 2.5em,
+		transparent 100%
+	),
+	radial-gradient(
+		transparent 0,
+		transparent 2em,
+		khaki 2em,
+		khaki 2.5em,
+		transparent 2.5em,
+		transparent 100%
+	),
+	radial-gradient(
+		transparent 0,
+		transparent 2em,
+		pink 2em,
+		pink 2.5em,
+		transparent 2.5em,
+		transparent 100%
+	), linen;
+
+
+background-blend-mode: multiply;
+background-size: 5em 5em;
+background-position:
+	0 2.5em,
+	2.5em 0,
+	2.5em 2.5em,
+	0 0;
+}
+  /* background:
+      repeating-linear-gradient(
+          -45deg,
+          transparent 0,
+          transparent 25%,
+          dodgerblue 0,
+          dodgerblue 50%
+     ),
+     repeating-linear-gradient(
+          45deg,
+          transparent 0,
+          transparent 25%,
+          tomato 0,
+          tomato 50%
+      ),
+      repeating-linear-gradient(
+          transparent 0,
+          transparent 25%,
+          gold 0,
+          gold 50%
+      ), white;
+  background-blend-mode:multiply;
+  background-size: 100px 100px; */
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+label {
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"]  
+{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+input[type="submit"] {
+  background-color: #15a51a;
+  color: rgb(234, 236, 235);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+
+}
+
+.error-message {
+  color: rgb(246, 22, 22);
+  font-size: 12px;
+  margin-top: 5px;
+}
