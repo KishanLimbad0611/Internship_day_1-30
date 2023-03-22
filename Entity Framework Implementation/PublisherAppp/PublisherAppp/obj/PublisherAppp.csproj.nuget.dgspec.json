@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherAppp\\PublisherAppp.csproj": {}
+    "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherAppp\\PublisherAppp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherAppp\\PublisherAppp.csproj": {
+    "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherAppp\\PublisherAppp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherAppp\\PublisherAppp.csproj",
+        "projectUniqueName": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherAppp\\PublisherAppp.csproj",
         "projectName": "PublisherAppp",
-        "projectPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherAppp\\PublisherAppp.csproj",
+        "projectPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherAppp\\PublisherAppp.csproj",
         "packagesPath": "C:\\Users\\KishanLimbad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherAppp\\obj\\",
+        "outputPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherAppp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherData\\PublisherData.csproj": {
-                "projectPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherData\\PublisherData.csproj"
+              "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherData\\PublisherData.csproj": {
+                "projectPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherData\\PublisherData.csproj"
               },
-              "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj"
+              "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -88,18 +88,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherData\\PublisherData.csproj": {
+    "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherData\\PublisherData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherData\\PublisherData.csproj",
+        "projectUniqueName": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherData\\PublisherData.csproj",
         "projectName": "PublisherData",
-        "projectPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherData\\PublisherData.csproj",
+        "projectPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherData\\PublisherData.csproj",
         "packagesPath": "C:\\Users\\KishanLimbad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherData\\obj\\",
+        "outputPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +120,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj"
+              "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -173,18 +173,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj": {
+    "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj",
+        "projectUniqueName": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj",
         "projectName": "PublisherDomain",
-        "projectPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj",
+        "projectPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherDomain\\PublisherDomain.csproj",
         "packagesPath": "C:\\Users\\KishanLimbad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KishanLimbad\\source\\repos\\PublisherAppp\\PublisherDomain\\obj\\",
+        "outputPath": "D:\\internship git hub\\Internship_day_1-30\\Entity Framework Implementation\\PublisherAppp\\PublisherDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,7 +254,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
